@@ -1,3 +1,5 @@
 # hello-world
 a start up to get familiar with Github!
-I am text-2 and would like ot try to merge with master.
+
+I am text 1 and would like to be the final one to merge with master.
+
